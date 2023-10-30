@@ -11,6 +11,7 @@ Analyzing the winning percentage of teams based on their decision to bat or bowl
 4. Team Performance Analysis:
 Evaluating the total number of wins by each IPL team in a season. In IPL 2019, Mumbai Indians had 11 wins, making them the most successful team of the season.
 Categorizing matches won based on different result types, such as "by runs," "by wickets," and "Super Over."
+
 Insights:
 Through this IPL Data Analysis project, several valuable insights were generated, including:
 A historical perspective of IPL seasons, highlighting consistent and standout performers.
